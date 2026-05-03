@@ -13,4 +13,4 @@ describe('Home Page', () => {
 
   })
 
-})
+} )

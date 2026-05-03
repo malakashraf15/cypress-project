@@ -13,10 +13,11 @@ class HomePage {
     cy.contains('Kewi').should('be.visible')
     cy.contains('₪').should('exist')
   }
-  
+
   checkNavigation() {
   cy.get('a').should('have.length.greaterThan', 5)
 }
+
 
 }
 
