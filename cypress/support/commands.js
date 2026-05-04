@@ -10,7 +10,6 @@
 //
 //
 // -- This is a parent command --
-// Cypress.Commands.add('login', (email, password) => { ... })
 //
 //
 // -- This is a child command --
@@ -23,3 +22,15 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+  Cypress.Commands.add('LoginToApp', () => {
+    cy.session('user',()=>{
+        cy.visit('/')
+        cy.get('button').find('svg.lucide-user').parent('button').click()
+        cy.get('[placeholder="Enter your phone number"]').type('+972599353520')
+        cy.get('[placeholder="Enter your password"]').type('1771980suhaashraff')
+        cy.contains('button','Login').click()
+    })
+cy.visit('/')
+ })
+

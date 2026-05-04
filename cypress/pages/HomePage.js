@@ -19,22 +19,11 @@ class HomePage {
   }
 
   
+  
 
-  clickCategory(categoryName) {
-  cy.get(`img[alt="${categoryName}"]`, { timeout: 10000 })
-    .scrollIntoView()
-    .click({ force: true })
-}
+  
 
-  checkProductsLoaded() {
-    cy.get('img').should('have.length.greaterThan', 2)
-  }
 
-  clickFirstProduct() {
-  cy.get('img')
-    .first()
-    .click({ force: true })
-}
 
 }
 

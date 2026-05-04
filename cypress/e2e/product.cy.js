@@ -1,47 +1,34 @@
+///<reference types="cypress"/>
+
 import HomePage from '../pages/HomePage'
+
+beforeEach('login', () => {
+    HomePage.visit()
+    cy.LoginToApp()
+})
+
 
 describe('Browse and open product from categories', () => {
 
-  const categories = [
-    'Kéwi bags',
-    'Kéwi wallets',
-    'Kéwi belts',
-    'Kéwi perfume',
-    'Kéwi combs',
-    'Kéwi accessories',
-    'Kéwi travel bags',
-    'Kéwi hair clips',
-    'Kéwi charms'
-  ]
+ it('verify bags category', () => {   
+cy.contains('a','Products').click()
+cy.contains('span','Kéwi bags').click()
+cy.contains('h3','COACH TOTEBAG').should('be.visible')
+ })
 
-  categories.forEach((cat) => {
 
-    it(`user can open product from ${cat}`, () => {
+ it('verify wallets category', () => {   
+cy.contains('a','Products').click()
+cy.contains('span','Kéwi wallets').click()
+cy.contains('h3','LV Passport wallet').should('be.visible')
+ })
+  
 
-      HomePage.visit()
 
-      HomePage.clickCategory(cat)
-
-      cy.get('body').then((body) => {
-
-        if (body.find('img').length > 1) {
-
-          HomePage.clickFirstProduct()
-
-          cy.get('h1').should('be.visible')
-          cy.get('h1').should('not.be.empty')
-          cy.contains('₪').should('be.visible')
-
-        } else {
-
-          cy.log('No products in this category')
-
-        }
-
-      })
-
-    })
-
-  })
+it('verify wallets category', () => {   
+cy.contains('a','Products').click()
+cy.contains('span','Kéwi belts').click()
+cy.contains('h3','FENDI BELT').should('be.visible')
+ }) 
 
 })
