@@ -9,7 +9,6 @@ beforeEach('login', () => {
 
 it('Cheakout Process cash on delivery', () => {
  cy.addToCart('Fendi clutch')
- 
  cy.get('button').find('svg.lucide-shopping-cart ').first().parent('button').click()
  cy.contains('button','Checkout').click()
  cy.get('#name').type('rita')
@@ -28,8 +27,7 @@ cy.contains('button','Place Order').click()
 
 
 it('Cheakout Process pay with visa', () => {
- cy.addToCart('Fendi clutch')
- 
+ cy.addToCart('Fendi clutch') 
  cy.get('button').find('svg.lucide-shopping-cart ').first().parent('button').click()
  cy.contains('button','Checkout').click()
  cy.get('#name').type('rita')
