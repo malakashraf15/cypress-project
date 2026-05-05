@@ -1,8 +1,8 @@
 class HomePage {
 
   visit() {
-    cy.visit('/')
-  }
+  cy.visit('/')
+}
 
   checkImagesLoaded() {
     cy.get('img')
