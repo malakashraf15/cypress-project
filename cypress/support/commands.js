@@ -24,13 +24,51 @@
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
   Cypress.Commands.add('LoginToApp', () => {
-    cy.session('user',()=>{
-        cy.visit('/')
-        cy.get('button').find('svg.lucide-user').parent('button').click()
-        cy.get('[placeholder="Enter your phone number"]').type('+972599353520')
-        cy.get('[placeholder="Enter your password"]').type('1771980suhaashraff')
-        cy.contains('button','Login').click()
-    })
+    cy.session('user',()=>{
+    cy.visit('/')
+    cy.get('button').find('svg.lucide-user').parent('button').click()
+    cy.get('[placeholder="Enter your phone number"]').type('+970599656532')
+    cy.get('[placeholder="Enter your password"]').type('123456Ss')
+    cy.contains('button','Login').click()
+  })
 cy.visit('/')
- })
+ })
+
+  Cypress.Commands.add('AddToCart', () => {
+     cy.get('button').find('svg.lucide-shopping-cart').parent('button').click()
+ })
+
+ Cypress.Commands.add('addToCart', (productName) => {
+cy.get('h3')
+.filter((index, el) => {
+return el.innerText.toLowerCase().includes(productName.toLowerCase())
+})
+.first()
+.closest('.group')
+.within(() => {
+cy.get('button.btn-scale').click()
+})
+})
+
+Cypress.Commands.add('checkout',()=>{
+cy.get('button').find('svg.lucide-shopping-cart').first().parent('button').click()
+cy.contains('button','Checkout').click()
+cy.get('#name').type('rita')
+cy.get('#phone').type('+970599656532')
+cy.get('#city').type('Jenin')
+cy.contains('Region').parent().find('select')
+.select('West Bank')
+cy.contains('Delivery Type').parent().find('select')
+.select('Express')
+cy.get('input[type="radio"]').then(radiobutton =>{
+    cy.wrap(radiobutton).eq(0).check()
+
+})
+cy.contains('button','Place Order').click()
+
+})
+
+
+
+
 
