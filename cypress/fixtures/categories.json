@@ -20,16 +20,7 @@
         "updatedAt": "2026-04-05T11:01:13.881Z",
         "__v": 0
     },
-    {
-        "_id": "69d241bf7e685b164dfb4a79",
-        "name": "Kéwi perfume",
-        "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1776086784351-D_NQ_NP_965379-MLC95720254748_102025-O.webp?alt=media&token=3b52bc63-ac08-46e2-9901-8355a9e7b7d6",
-        "description": "",
-        "other": false,
-        "createdAt": "2026-04-05T11:04:31.153Z",
-        "updatedAt": "2026-04-13T13:26:26.566Z",
-        "__v": 0
-    },
+    
     {
         "_id": "69d242367e685b164dfb4a87",
         "name": "Kéwi combs",
