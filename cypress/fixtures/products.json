@@ -1,0 +1,267 @@
+[
+    {
+        "_id": "69dacfbeb9a44773926106ed",
+        "name": "Fendi clutch",
+        "image": [
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1775947414573-image00057.jpeg?alt=media&token=5951005a-5c34-4728-8ccf-576f0a897a91",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1775947429573-image00060.jpeg?alt=media&token=0541ac2c-b5c2-4d92-a93a-c279f56383df",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1775947438003-image00054.jpeg?alt=media&token=065b32aa-86a7-4e5f-9ce3-43eef63093bc",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1775947480788-image00062.jpeg?alt=media&token=95a32357-dcd3-459a-88fb-ef36ed1054a2",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1775947499552-image00059.jpeg?alt=media&token=e9080b14-941d-4d7f-933d-368d193e2baf"
+        ],
+        "description": "Fendi clutch with box\nsize : 21L*13H\nHigh quality .",
+        "id": "F-2001",
+        "categoryId": {
+            "_id": "69d240a47e685b164dfb4a51",
+            "name": "Kéwi wallets",
+            "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1775386784494-WhatsApp%20Image%202026-03-09%20at%2011.34.24%20PM.jpeg?alt=media&token=56001ae0-18e6-4056-8ac5-51433f519b1b",
+            "description": "",
+            "other": false,
+            "createdAt": "2026-04-05T10:59:48.884Z",
+            "updatedAt": "2026-04-05T11:00:25.025Z",
+            "__v": 0
+        },
+        "brandId": null,
+        "stockNumber": 55,
+        "gender": "نسائي",
+        "color": null,
+        "variants": [
+            {
+                "color": "Beige - بيج - 2001",
+                "stockNumber": 15,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1775947414573-image00057.jpeg?alt=media&token=5951005a-5c34-4728-8ccf-576f0a897a91",
+                "_id": "69dacfbeb9a44773926106ee"
+            },
+            {
+                "color": "Dark green - أخضر غامق - 2001",
+                "stockNumber": 10,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1775947429573-image00060.jpeg?alt=media&token=0541ac2c-b5c2-4d92-a93a-c279f56383df",
+                "_id": "69dacfbeb9a44773926106ef"
+            },
+            {
+                "color": "Coffee - قهوه - 2001",
+                "stockNumber": 10,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1775947438003-image00054.jpeg?alt=media&token=065b32aa-86a7-4e5f-9ce3-43eef63093bc",
+                "_id": "69dacfbeb9a44773926106f0"
+            },
+            {
+                "color": "أسود - Black - 2001",
+                "stockNumber": 10,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1775947480788-image00062.jpeg?alt=media&token=95a32357-dcd3-459a-88fb-ef36ed1054a2",
+                "_id": "69dacfbeb9a44773926106f1"
+            },
+            {
+                "color": "Mix",
+                "stockNumber": 10,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1775947499552-image00059.jpeg?alt=media&token=e9080b14-941d-4d7f-933d-368d193e2baf",
+                "_id": "69dacfbeb9a44773926106f2"
+            }
+        ],
+        "isMultiColor": true,
+        "size": "وسط",
+        "customerPrice": 79.99,
+        "wholesalerPrice": 59.99,
+        "featured": true,
+        "salePrice": 69.99,
+        "isSoldOut": false,
+        "isOnSale": false,
+        "isSoon": false,
+        "numOfClicks": 0,
+        "createdAt": "2026-04-11T22:48:30.377Z",
+        "updatedAt": "2026-04-12T12:32:20.550Z",
+        "__v": 0
+    },
+    {
+        "_id": "69dce9d2b9a44773926146f7",
+        "name": "No.IV Jus D' Amour",
+        "image": [
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_images%2F1776083613444-RamonBlazar_NoIVJusDAmour1.webp?alt=media&token=f6e8ee78-cb74-471e-8ecb-93765bbdf994",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_images%2F1776083613487-RamonBlazar_NoIVJusDAmour2.webp?alt=media&token=f93c189e-0adf-4bf5-b035-1b16548c6bf6"
+        ],
+        "description": "مقدمة العطر: قشر الليمون، زهر البرتقال\nقلب العطر: الكراميل\nقاعدة العطر: المسك، العنبر، خشب الصندل",
+        "id": "No.IV Jus D' Amour",
+        "categoryId": {
+            "_id": "69d241bf7e685b164dfb4a79",
+            "name": "Kéwi perfume",
+            "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1776086784351-D_NQ_NP_965379-MLC95720254748_102025-O.webp?alt=media&token=3b52bc63-ac08-46e2-9901-8355a9e7b7d6",
+            "description": "",
+            "other": false,
+            "createdAt": "2026-04-05T11:04:31.153Z",
+            "updatedAt": "2026-04-13T13:26:26.566Z",
+            "__v": 0
+        },
+        "brandId": null,
+        "stockNumber": 6,
+        "gender": "رجالي",
+        "color": "",
+        "variants": [],
+        "isMultiColor": false,
+        "size": "كبير",
+        "customerPrice": 170,
+        "wholesalerPrice": 79.99,
+        "featured": true,
+        "salePrice": 119.99,
+        "isSoldOut": false,
+        "isOnSale": false,
+        "isSoon": false,
+        "numOfClicks": 0,
+        "createdAt": "2026-04-13T13:04:18.650Z",
+        "updatedAt": "2026-04-13T13:32:12.659Z",
+        "__v": 0
+    },
+    {
+        "_id": "69e24725b9a447739261e05b",
+        "name": "Chanel classic flab 25",
+        "image": [
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436502244-image00093.jpeg?alt=media&token=e6e14643-03e3-432f-9cff-0a66225e1244",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436522814-image00075.jpeg?alt=media&token=612ba3cd-d001-4e5c-8410-f03415276433",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436538461-image00079.jpeg?alt=media&token=8f25417c-c0b5-46bf-91d3-b51738ff0a0b",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436547170-image00096.jpeg?alt=media&token=25b8d6c4-2e38-4989-a22d-8601d5f0c3f0",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436556131-image00083.jpeg?alt=media&token=dbeaaf9a-6ae5-4963-adf9-1dabdc2a2bd3",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436588640-image00101.jpeg?alt=media&token=4bdb0c5c-76ee-4da7-b043-8da009fcc7fd",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436597837-image00089.jpeg?alt=media&token=36c869f8-40f4-4fde-a6eb-418ec0c6a9da",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436628336-image00072.jpeg?alt=media&token=8bba1997-e1f9-4b8c-a985-0bbc36a874d3",
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436645346-image00100.jpeg?alt=media&token=167344e2-5d2a-4925-8e73-ceef4ef96325"
+        ],
+        "description": "Chanel classic flab 25cm - high quality - without box .\n\n",
+        "id": "1112",
+        "categoryId": {
+            "_id": "69d240317e685b164dfb4a48",
+            "name": "Kéwi bags",
+            "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1775386665241-IMG_3416.JPG?alt=media&token=c5da9bef-3724-4726-983e-f39de5647d2c",
+            "description": "",
+            "other": true,
+            "createdAt": "2026-04-05T10:57:53.217Z",
+            "updatedAt": "2026-05-02T19:27:16.874Z",
+            "__v": 0
+        },
+        "brandId": {
+            "_id": "69d24d327e685b164dfb4b28",
+            "name": "Chanel",
+            "image": "",
+            "isFake": true,
+            "numOfClicks": 6,
+            "createdAt": "2026-04-05T11:53:22.073Z",
+            "updatedAt": "2026-05-06T09:47:18.556Z",
+            "__v": 0
+        },
+        "stockNumber": 99,
+        "gender": "نسائي",
+        "color": null,
+        "variants": [
+            {
+                "color": "Black-اسود-  1112C",
+                "stockNumber": 19,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436502244-image00093.jpeg?alt=media&token=e6e14643-03e3-432f-9cff-0a66225e1244",
+                "_id": "69e24725b9a447739261e05c"
+            },
+            {
+                "color": "Beige-بيج -  1112C",
+                "stockNumber": 18,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436522814-image00075.jpeg?alt=media&token=612ba3cd-d001-4e5c-8410-f03415276433",
+                "_id": "69e24725b9a447739261e05d"
+            },
+            {
+                "color": "White -ابيض -  1112C",
+                "stockNumber": 8,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436538461-image00079.jpeg?alt=media&token=8f25417c-c0b5-46bf-91d3-b51738ff0a0b",
+                "_id": "69e24725b9a447739261e05e"
+            },
+            {
+                "color": "Oily-زيتي -  1112C",
+                "stockNumber": 3,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436547170-image00096.jpeg?alt=media&token=25b8d6c4-2e38-4989-a22d-8601d5f0c3f0",
+                "_id": "69e24725b9a447739261e05f"
+            },
+            {
+                "color": "dark pink -زهر غامق -  1112C",
+                "stockNumber": 4,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436556131-image00083.jpeg?alt=media&token=dbeaaf9a-6ae5-4963-adf9-1dabdc2a2bd3",
+                "_id": "69e24725b9a447739261e060"
+            },
+            {
+                "color": "Black  -اسود -  1112",
+                "stockNumber": 20,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436588640-image00101.jpeg?alt=media&token=4bdb0c5c-76ee-4da7-b043-8da009fcc7fd",
+                "_id": "69e24725b9a447739261e061"
+            },
+            {
+                "color": "Khaki -بيج -  1112",
+                "stockNumber": 18,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436597837-image00089.jpeg?alt=media&token=36c869f8-40f4-4fde-a6eb-418ec0c6a9da",
+                "_id": "69e24725b9a447739261e062"
+            },
+            {
+                "color": "White -ابيض -  1112",
+                "stockNumber": 8,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436628336-image00072.jpeg?alt=media&token=8bba1997-e1f9-4b8c-a985-0bbc36a874d3",
+                "_id": "69e24725b9a447739261e063"
+            },
+            {
+                "color": "White -ابيض -  1112",
+                "stockNumber": 1,
+                "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_variants%2F1776436645346-image00100.jpeg?alt=media&token=167344e2-5d2a-4925-8e73-ceef4ef96325",
+                "_id": "69e24725b9a447739261e064"
+            }
+        ],
+        "isMultiColor": true,
+        "size": "وسط",
+        "customerPrice": 99.99,
+        "wholesalerPrice": 70,
+        "featured": true,
+        "salePrice": 79.99,
+        "isSoldOut": false,
+        "isOnSale": false,
+        "isSoon": false,
+        "numOfClicks": 0,
+        "createdAt": "2026-04-17T14:43:49.557Z",
+        "updatedAt": "2026-04-17T14:44:46.791Z",
+        "__v": 0
+    },
+    {
+        "_id": "69f376c1b9a4477392659e06",
+        "name": "COACH LANA",
+        "image": [
+            "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/product_images%2F1777552537081-WhatsApp%20Image%202026-04-29%20at%205.29.35%20PM%20(5).jpeg?alt=media&token=801d7eec-4603-4a7c-8e99-4e6d8a504ed0"
+        ],
+        "description": "",
+        "id": " COACH LANA HIGH Q ",
+        "categoryId": {
+            "_id": "69d240317e685b164dfb4a48",
+            "name": "Kéwi bags",
+            "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1775386665241-IMG_3416.JPG?alt=media&token=c5da9bef-3724-4726-983e-f39de5647d2c",
+            "description": "",
+            "other": true,
+            "createdAt": "2026-04-05T10:57:53.217Z",
+            "updatedAt": "2026-05-02T19:27:16.874Z",
+            "__v": 0
+        },
+        "brandId": {
+            "_id": "69d24e037e685b164dfb4b32",
+            "name": "COACH",
+            "image": "",
+            "isFake": true,
+            "numOfClicks": 0,
+            "createdAt": "2026-04-05T11:56:51.824Z",
+            "updatedAt": "2026-04-05T14:01:08.858Z",
+            "__v": 0
+        },
+        "stockNumber": 20,
+        "gender": "نسائي",
+        "color": "COACH",
+        "variants": [],
+        "isMultiColor": false,
+        "size": "وسط",
+        "customerPrice": 149.99,
+        "wholesalerPrice": 99.99,
+        "featured": true,
+        "salePrice": 79.99,
+        "isSoldOut": false,
+        "isOnSale": true,
+        "isSoon": false,
+        "numOfClicks": 0,
+        "createdAt": "2026-04-30T15:35:29.656Z",
+        "updatedAt": "2026-05-02T13:37:11.209Z",
+        "__v": 0
+    }
+]

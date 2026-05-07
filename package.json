@@ -1,7 +1,7 @@
 {
   "name": "cy-task",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run"
   },
   "devDependencies": {
     "cypress": "^15.14.2"

@@ -1,0 +1,113 @@
+[
+    {
+        "_id": "69d240317e685b164dfb4a48",
+        "name": "Kéwi bags",
+        "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1775386665241-IMG_3416.JPG?alt=media&token=c5da9bef-3724-4726-983e-f39de5647d2c",
+        "description": "",
+        "other": true,
+        "createdAt": "2026-04-05T10:57:53.217Z",
+        "updatedAt": "2026-05-02T19:27:16.874Z",
+        "__v": 0
+    },
+    
+    {
+        "_id": "69d240f97e685b164dfb4a5e",
+        "name": "Kéwi belts",
+        "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1775386868169-KQUD5508.JPG?alt=media&token=3b7e3785-49d9-4ab6-8e31-824ef72c0a9b",
+        "description": "",
+        "other": false,
+        "createdAt": "2026-04-05T11:01:13.881Z",
+        "updatedAt": "2026-04-05T11:01:13.881Z",
+        "__v": 0
+    },
+    {
+        "_id": "69d241bf7e685b164dfb4a79",
+        "name": "Kéwi perfume",
+        "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1776086784351-D_NQ_NP_965379-MLC95720254748_102025-O.webp?alt=media&token=3b52bc63-ac08-46e2-9901-8355a9e7b7d6",
+        "description": "",
+        "other": false,
+        "createdAt": "2026-04-05T11:04:31.153Z",
+        "updatedAt": "2026-04-13T13:26:26.566Z",
+        "__v": 0
+    },
+    {
+        "_id": "69d242367e685b164dfb4a87",
+        "name": "Kéwi combs",
+        "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1775387184114-WhatsApp%20Image%202026-03-04%20at%209.30.52%20PM.jpeg?alt=media&token=a8837712-523a-4a38-858b-be2973cabb76",
+        "description": "",
+        "other": false,
+        "createdAt": "2026-04-05T11:06:30.070Z",
+        "updatedAt": "2026-04-05T11:06:30.070Z",
+        "__v": 0
+    },
+    {
+        "_id": "69d242887e685b164dfb4a90",
+        "name": "Kéwi accessories",
+        "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1776088663201-images%20(1).png?alt=media&token=76f037a5-a758-4b73-8c76-952fc39eb809",
+        "description": "",
+        "other": false,
+        "createdAt": "2026-04-05T11:07:52.182Z",
+        "updatedAt": "2026-04-13T13:57:45.923Z",
+        "__v": 0
+    },
+    {
+        "_id": "69d242f07e685b164dfb4a95",
+        "name": "Kéwi travel bags",
+        "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1775387368642-AFQJ5801.JPG?alt=media&token=1ee91d9c-82d7-4611-9409-3338398609c7",
+        "description": "",
+        "other": false,
+        "createdAt": "2026-04-05T11:09:36.830Z",
+        "updatedAt": "2026-04-05T11:09:36.830Z",
+        "__v": 0
+    },
+    {
+        "_id": "69d246657e685b164dfb4af4",
+        "name": "Kéwi hair clips",
+        "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1776089408487-WhatsApp%20Image%202026-03-04%20at%209.28.20%20PM.jpeg?alt=media&token=30ac52dc-0fa4-4adc-9245-e65a2a6d0278",
+        "description": "",
+        "other": false,
+        "createdAt": "2026-04-05T11:24:21.807Z",
+        "updatedAt": "2026-04-22T12:24:44.214Z",
+        "__v": 0
+    },
+    {
+        "_id": "69d2481c7e685b164dfb4b03",
+        "name": "Kéwi charms",
+        "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1775388697777-7171ca6d-566b-4c15-9a89-cafc93b73078-1000x1000-4cVSDJ0I30ebfZb8yrZfNAPpTshPuEXbrpSjHHsm.webp?alt=media&token=d99014cf-02d1-4fb7-b0bb-635cd88cfcd6",
+        "description": "",
+        "other": false,
+        "createdAt": "2026-04-05T11:31:40.658Z",
+        "updatedAt": "2026-04-05T11:31:40.658Z",
+        "__v": 0
+    },
+    {
+        "_id": "69d248627e685b164dfb4b0c",
+        "name": "Kéwi more",
+        "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1775388768237-294395962_733933770915791_7058319813557325887_n.jpg?alt=media&token=e9b599fd-3f5b-47b5-8b22-96dd1889e121",
+        "description": "",
+        "other": false,
+        "createdAt": "2026-04-05T11:32:50.661Z",
+        "updatedAt": "2026-05-02T19:26:42.133Z",
+        "__v": 0
+    },
+    {
+        "_id": "69dcf967b9a447739261582c",
+        "name": "Kéwi discounts",
+        "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1778066583591-Use%20AI%20Image%20May%206%2C%202026%2C%2014_22_09.png?alt=media&token=70de276b-919d-4bd1-9716-73a166752ba0",
+        "description": "",
+        "other": false,
+        "createdAt": "2026-04-13T14:10:47.149Z",
+        "updatedAt": "2026-05-06T11:23:12.014Z",
+        "__v": 0
+    },
+    {
+        "_id": "69f33acbb9a4477392656811",
+        "name": "Kéwi soon",
+        "image": "https://firebasestorage.googleapis.com/v0/b/fitrack-efd01.appspot.com/o/category_images%2F1777547972534-Gemini_Generated_Image_6vtg6a6vtg6a6vtg.png?alt=media&token=37f2c5b8-bdb1-4ac4-bc6c-2894e478c20b",
+        "description": "",
+        "other": true,
+        "createdAt": "2026-04-30T11:19:39.148Z",
+        "updatedAt": "2026-05-02T19:26:22.878Z",
+        "__v": 0
+    }
+]
