@@ -34,20 +34,17 @@
 cy.visit('/')
  })
 
-  Cypress.Commands.add('AddToCart', () => {
-     cy.get('button').find('svg.lucide-shopping-cart').parent('button').click()
- })
-
- Cypress.Commands.add('addToCart', (productName) => {
-cy.get('h3')
-.filter((index, el) => {
-return el.innerText.toLowerCase().includes(productName.toLowerCase())
-})
-.first()
-.closest('.group')
-.within(() => {
-cy.get('button.btn-scale').click()
-})
+  Cypress.Commands.add('addToCart', (productName) => {
+    cy.visit('/products') // ← أضيفي هاد
+    cy.get('h3')
+        .filter((index, el) => {
+            return el.innerText.toLowerCase().includes(productName.toLowerCase())
+        })
+        .first()
+        .closest('.group')
+        .within(() => {
+            cy.get('button.btn-scale').click()
+        })
 })
 
 Cypress.Commands.add('checkout',()=>{
