@@ -16,7 +16,6 @@ it('delete from cart', () => {
     .click()
 })
 it('delete from cart multiple products', () => {
-  // أضيفي المنتج الأول
   cy.visit('/category/69d240317e685b164dfb4a48?search=Chanel+classic+flab+25')
   cy.contains('h3', 'Chanel classic flab 25').should('be.visible')
   cy.contains('h3', 'Chanel classic flab 25')
@@ -25,7 +24,6 @@ it('delete from cart multiple products', () => {
     .last()
     .click()
 
-  // أضيفي المنتج الثاني
   cy.visit('https://kewi.ps/category/69d240317e685b164dfb4a48?search=Lady+Dior')
   cy.contains('h3', 'Lady Dior').should('be.visible')
   cy.contains('h3', 'Lady Dior')
@@ -34,7 +32,6 @@ it('delete from cart multiple products', () => {
     .last()
     .click()
 
-  // روحي للكارت وامسحي
   cy.get('nav').find('a[href="/cart"]').click()
 
   cy.contains('.bg-card', 'Chanel classic flab 25')
