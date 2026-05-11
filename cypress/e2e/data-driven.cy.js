@@ -8,12 +8,12 @@ const testData = [
   {
     phone: '0555',
     isValid: false,
-    description: 'sign up with invalid phone - less than 10 digits'
+    description: 'sign up with invalid phone '
   },
   {
     phone: '0599353520',
     isValid: true,
-    description: 'sign up with valid phone - 10 digits'
+    description: 'sign up with valid phone '
   }
 ]
 
