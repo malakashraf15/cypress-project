@@ -142,3 +142,6 @@ cypress/
 
 Base URL: `https://kewi.ps`  
 
+## tutorial video
+
+https://drive.google.com/file/d/1kB3a3a1AGIh3fbYNL4f62zOl6m1sil0O/view?usp=sharing
